@@ -1,0 +1,35 @@
+//dewinta
+html {
+  position: relative;
+}
+
+body {
+  margin-bottom: 120px;
+  margin-top: 30px
+} 
+
+.jumbotron-2 {
+  background-image: url('http://papillondereve.p.a.pic.centerblog.net/o/05b58940.jpg ');
+  background-attachment: fixed;
+  background-size: cover;
+  overflow: hidden;
+  color:bisque; 
+ 
+ }
+
+.jumbotron img {
+  width: 200px;
+  border: 5px solid #eaeaea;
+  box-shadow 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+hr {
+  width: 250px;
+  border-top: 3px solid #999;
+}
+.muslimah{
+  background-image: url('http://eskipaper.com/images/light-pink-wallpaper-14.jpg');
+}
+.card{
+  background-image: url('http://eskipaper.com/images/light-pink-wallpaper-14.jpg');
+}
